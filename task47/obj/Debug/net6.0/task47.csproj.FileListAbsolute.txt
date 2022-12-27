@@ -1,0 +1,15 @@
+D:\IT\C#\HomeWork7\task47\bin\Debug\net6.0\task47.exe
+D:\IT\C#\HomeWork7\task47\bin\Debug\net6.0\task47.deps.json
+D:\IT\C#\HomeWork7\task47\bin\Debug\net6.0\task47.runtimeconfig.json
+D:\IT\C#\HomeWork7\task47\bin\Debug\net6.0\task47.dll
+D:\IT\C#\HomeWork7\task47\bin\Debug\net6.0\task47.pdb
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.csproj.AssemblyReference.cache
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.AssemblyInfoInputs.cache
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.AssemblyInfo.cs
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.csproj.CoreCompileInputs.cache
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.dll
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\refint\task47.dll
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.pdb
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\task47.genruntimeconfig.cache
+D:\IT\C#\HomeWork7\task47\obj\Debug\net6.0\ref\task47.dll
